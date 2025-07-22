@@ -1,0 +1,1 @@
+-- SQL for acore_characters database
