@@ -1,1 +1,2 @@
 -- SQL for acore_characters database
+-- 파일로 추가해도 되지만, 여기에 추가로 편집해서 넣어도 됩니다.
